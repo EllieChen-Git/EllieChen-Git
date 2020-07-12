@@ -1,6 +1,18 @@
 ### Hi there! I'm Ellie! 👋
 
+- 🔭 I’m an junior frontend developer with the following tech stacks: JavaScript, React (MERN stack), Angular, Ruby on Rails.
+- 🌱 I’m currently enrolling the AWS re/Start program to study AWS cloud technologies, Linux, system operations, networking, cybersecurity and databases.
+- 📫 You can reach me at: 
 
+LinkedIn: https://www.linkedin.com/in/elliettchen/
+
+Portfolio: https://elliechen.live/
+
+Twitter: https://twitter.com/elliechen_etc
+
+GitHub: https://github.com/EllieChen-Git
+
+CV: https://elliechen.live/Ellie_Chen_Resume_Web_Developer.pdf
 
 
 <!--
@@ -8,12 +20,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
