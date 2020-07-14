@@ -1,6 +1,6 @@
 ### Hi there, I'm Ellie 👋
 
-🔭 **Who am I**: ✨I'm a junior frontend developer based in Sydney, Australia. As a career changer, I am passionate about technology and constant learning, and I'm open to new opportunities. ✨
+🔭 **Who am I**: ✨I'm a junior frontend developer based in Sydney, Australia. As a career changer, I am passionate about technology and constant learning. I'm open to new opportunities. ✨
 
 🔧 **My tech stacks**: JavaScript, React (MERN stack), Angular, Ruby on Rails, Bootstrap, Material UI... and I'm always learning something new 😊.
 
