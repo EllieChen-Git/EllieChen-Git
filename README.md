@@ -1,6 +1,6 @@
 ## Hi there, I'm Ellie 👋
 
-👀 **Who am I**: A Coder Academy bootcamp graduate who's passionate about frontend development and later started my tech career as a Professional Services Cloud Consultant in Amazon Web Services (AWS). Currently working as an Azure Solution Architect in Microsoft Australia. I am passionate about technology and constant learning. ✨
+👀 **Who am I**: A Coder Academy bootcamp graduate who's passionate about frontend development and later started my tech career as a Professional Services Cloud Consultant in Amazon Web Services (AWS). Currently working as an Azure Solution Architect at Microsoft Australia. I am passionate about technology and constant learning. ✨
 
 🔧 **Tech stacks**:
 
@@ -9,17 +9,19 @@
 - **CI/CD**: Git, GitHub, GitLab, BitBucket
 - **Industry certificates**
   - Microsoft Certified: Azure Solutions Architect Expert (AZ-305)
+  - Microsoft Certified: Azure Security Engineer Associate (AZ-500)
+  - Microsoft Certified: Azure Network Engineer Associate (AZ-700)
   - Microsoft Certified: Azure Administrator Associate (AZ-104)
   - AWS Certified Solutions Architect – Professional
   - AWS Certified Security – Specialty
   - AWS Certified Developer – Associate
   - AWS Certified SysOps Administrator – Associate
   - AWS Certified Solutions Architect – Associate
-  - ... and I'm always learning something new (currently Terraform & Python)🌱
+  - ... and I'm always learning something new (currently Terraform & AWS CDK)🌱
 
-💬 **Fun fact**: I love travelling (18 countries ✈️) and running (2 half-marathons 🏃‍♀️).
+💬 **Fun fact**: I love travelling (22 countries ✈️) and running (2 half-marathons 🏃‍♀️).
 
-⚡ **More about me**: [LinkedIn](https://www.linkedin.com/in/elliettchen/) | [Twitter](https://twitter.com/elliechen_etc) | [Portfolio](Currently updating)
+⚡ **More about me**: [LinkedIn](https://www.linkedin.com/in/elliettchen/) | [Portfolio](Currently updating)
 
 ### 🦸‍♀️️ Signature Projects
 
